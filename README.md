@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning PHP Laravel & Flutter
 - 💞️ I’m looking to collaborate on Web and App Development
-- 📫 Contact me @ abhinir.yi1478@gmail.com
+- 📫 Write me @ abhinir.yi1478@gmail.com
 
 <!---
 abhinir1310/abhinir1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
