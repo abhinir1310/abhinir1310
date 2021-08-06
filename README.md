@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Niranjan
-- 👀 I’m interested in web development
+- 👀 I’m interested in web & app development
 - 🌱 I’m currently learning PHP Laravel & Flutter
 - 💞️ I’m looking to collaborate on Web and App Development
 - 📫 Write me @ abhinir.yi1478@gmail.com
