@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Abhishek Niranjan
+- 📚 I am a final year Information Technology student
 - 👀 I’m interested in web & app development
-- 🌱 I’m currently learning PHP Laravel & Flutter
+- 💻 I’m currently learning PHP, Laravel & Java and very keen to learn Cloud Computing as well.
 - 💞️ I’m looking to collaborate on Web and App Development
-- 📫 Write me @ abhinir.yi1478@gmail.com
-- 
+- ✒️ Write me @ abhinir.yi1478@gmail.com
+
 
 <!---
 abhinir1310/abhinir1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
